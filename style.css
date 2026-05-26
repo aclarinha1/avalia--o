@@ -89,7 +89,7 @@ body{
   min-height:100vh;
   background:
     linear-gradient(rgba(0, 0, 0, 0.8), rgba(0,0,0,.8)),
-    url('/images/hero.jfif') center/cover;
+    url('images/hero.jfif') center/cover;
   display:flex;
   justify-content:center;
   align-items:center;
